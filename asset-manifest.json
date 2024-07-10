@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/johnku2011/macau_recycling_map/static/css/main.2f39a220.css",
-    "main.js": "/johnku2011/macau_recycling_map/static/js/main.5d06546f.js",
-    "static/js/453.0abb85c7.chunk.js": "/johnku2011/macau_recycling_map/static/js/453.0abb85c7.chunk.js",
-    "index.html": "/johnku2011/macau_recycling_map/index.html",
-    "main.2f39a220.css.map": "/johnku2011/macau_recycling_map/static/css/main.2f39a220.css.map",
-    "main.5d06546f.js.map": "/johnku2011/macau_recycling_map/static/js/main.5d06546f.js.map",
-    "453.0abb85c7.chunk.js.map": "/johnku2011/macau_recycling_map/static/js/453.0abb85c7.chunk.js.map"
+    "main.css": "/macau_recycling_map/static/css/main.2f39a220.css",
+    "main.js": "/macau_recycling_map/static/js/main.19622898.js",
+    "static/js/453.0abb85c7.chunk.js": "/macau_recycling_map/static/js/453.0abb85c7.chunk.js",
+    "index.html": "/macau_recycling_map/index.html",
+    "main.2f39a220.css.map": "/macau_recycling_map/static/css/main.2f39a220.css.map",
+    "main.19622898.js.map": "/macau_recycling_map/static/js/main.19622898.js.map",
+    "453.0abb85c7.chunk.js.map": "/macau_recycling_map/static/js/453.0abb85c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f39a220.css",
-    "static/js/main.5d06546f.js"
+    "static/js/main.19622898.js"
   ]
 }
